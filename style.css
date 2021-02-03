@@ -1,0 +1,23 @@
+h1 {
+    background-color: aquamarine;
+}
+#playground {
+    height: 500px;
+    width: 500px;
+    background-color: cornflowerblue;
+}
+#button {
+    position: absolute;
+    top: 200px;
+    left: 200px;
+    width: 100px;
+    height: 40px;
+}
+/* .head {
+    background-color: black;
+}
+.border {
+    background-color: brown;
+}
+.cell {
+} */
